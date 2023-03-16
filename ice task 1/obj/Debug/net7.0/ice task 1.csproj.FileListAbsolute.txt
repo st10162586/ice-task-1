@@ -1,0 +1,15 @@
+C:\Users\onkgo\Desktop\MSA\year 2\prog2A\ice task 1\bin\Debug\net7.0\ice task 1.exe
+C:\Users\onkgo\Desktop\MSA\year 2\prog2A\ice task 1\bin\Debug\net7.0\ice task 1.deps.json
+C:\Users\onkgo\Desktop\MSA\year 2\prog2A\ice task 1\bin\Debug\net7.0\ice task 1.runtimeconfig.json
+C:\Users\onkgo\Desktop\MSA\year 2\prog2A\ice task 1\bin\Debug\net7.0\ice task 1.dll
+C:\Users\onkgo\Desktop\MSA\year 2\prog2A\ice task 1\bin\Debug\net7.0\ice task 1.pdb
+C:\Users\onkgo\Desktop\MSA\year 2\prog2A\ice task 1\obj\Debug\net7.0\ice task 1.csproj.AssemblyReference.cache
+C:\Users\onkgo\Desktop\MSA\year 2\prog2A\ice task 1\obj\Debug\net7.0\ice task 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onkgo\Desktop\MSA\year 2\prog2A\ice task 1\obj\Debug\net7.0\ice task 1.AssemblyInfoInputs.cache
+C:\Users\onkgo\Desktop\MSA\year 2\prog2A\ice task 1\obj\Debug\net7.0\ice task 1.AssemblyInfo.cs
+C:\Users\onkgo\Desktop\MSA\year 2\prog2A\ice task 1\obj\Debug\net7.0\ice task 1.csproj.CoreCompileInputs.cache
+C:\Users\onkgo\Desktop\MSA\year 2\prog2A\ice task 1\obj\Debug\net7.0\ice task 1.dll
+C:\Users\onkgo\Desktop\MSA\year 2\prog2A\ice task 1\obj\Debug\net7.0\refint\ice task 1.dll
+C:\Users\onkgo\Desktop\MSA\year 2\prog2A\ice task 1\obj\Debug\net7.0\ice task 1.pdb
+C:\Users\onkgo\Desktop\MSA\year 2\prog2A\ice task 1\obj\Debug\net7.0\ice task 1.genruntimeconfig.cache
+C:\Users\onkgo\Desktop\MSA\year 2\prog2A\ice task 1\obj\Debug\net7.0\ref\ice task 1.dll
